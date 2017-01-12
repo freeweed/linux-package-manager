@@ -1,1 +1,1 @@
-# starter-package-manager
+# linux-starter-installer
